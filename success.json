@@ -1,0 +1,7 @@
+{
+   success: true,
+   statusCode: 200,
+   data: {
+      message:"Your free wallet credits have been redeemed successfully"
+   }
+}
