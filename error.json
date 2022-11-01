@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "statusCode": 400,
+  "message": "The promotion is valid only for new users"
+}
